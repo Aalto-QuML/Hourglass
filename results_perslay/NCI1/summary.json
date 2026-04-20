@@ -1,0 +1,11 @@
+{
+  "seed": 4,
+  "logdir": "results_perslay/NCI1/",
+  "dataset": "NCI1",
+  "lr": 0.001,
+  "batch_size": 64,
+  "max_epochs": 300,
+  "interval": 1,
+  "early_stop_patience": 30,
+  "lr_decay_patience": 10
+}
